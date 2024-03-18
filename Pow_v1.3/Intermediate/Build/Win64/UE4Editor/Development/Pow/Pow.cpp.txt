@@ -1,0 +1,2 @@
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Intermediate\Build\Win64\UE4Editor\Development\Pow\Definitions.Pow.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Source\Pow\Pow.h

@@ -1,0 +1,1645 @@
+﻿Log file open, 12/02/22 10:07:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pow
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.564240
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin MegascansPlugin
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:034][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.02-09.07.41:046][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.02-09.07.41:047][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.02-09.07.41:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.02-09.07.41:047][  0]LogHAL: Display: Platform has ~ 16 GB [16962084864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.02-09.07.41:047][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.02-09.07.41:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Scalability.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Engine.ini]
+[2022.12.02-09.07.41:048][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Config/Windows/Editor.ini]
+[2022.12.02-09.07.41:048][  0]LogInit: Computer: LAPTOP-L6SGEO29
+[2022.12.02-09.07.41:048][  0]LogInit: User: axelh
+[2022.12.02-09.07.41:048][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.02-09.07.41:048][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.02-09.07.41:048][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.02-09.07.41:048][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.02-09.07.41:048][  0]LogMemory: Process Physical Memory: 144.99 MB used, 144.99 MB peak
+[2022.12.02-09.07.41:048][  0]LogMemory: Process Virtual Memory: 128.71 MB used, 128.71 MB peak
+[2022.12.02-09.07.41:048][  0]LogMemory: Physical Memory: 8223.50 MB used,  7952.80 MB free, 16176.30 MB total
+[2022.12.02-09.07.41:048][  0]LogMemory: Virtual Memory: 134208248.00 MB used,  9477.18 MB free, 134217728.00 MB total
+[2022.12.02-09.07.41:054][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.02-09.07.41:073][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.02-09.07.41:074][  0]LogInit: Using OS detected language (fr-FR).
+[2022.12.02-09.07.41:074][  0]LogInit: Using OS detected locale (fr-CH).
+[2022.12.02-09.07.41:077][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.12.02-09.07.41:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.12.02-09.07.41:077][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.12.02-09.07.41:078][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.02-09.07.41:091][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.02-09.07.41:103][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.02-09.07.41:103][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.02-09.07.41:215][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.02-09.07.41:218][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.02-09.07.41:218][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.02-09.07.41:218][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.02-09.07.41:218][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.02-09.07.41:401][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.12.02-09.07.41:401][  0]LogD3D11RHI:       128/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:       0/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     DeviceId    : 9a49
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     SubSysId    : 15091025
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     Revision    : 0001
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     SharedSystemMemory : 8481042432 bytes
+[2022.12.02-09.07.41:403][  0]LogD3D11RHI:     AdapterLuid : 0 70220
+[2022.12.02-09.07.41:410][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.02-09.07.41:410][  0]LogD3D11RHI:     GPU DeviceId: 0x9a49 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.02-09.07.41:410][  0]LogWindows: EnumDisplayDevices:
+[2022.12.02-09.07.41:410][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.12.02-09.07.41:410][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.02-09.07.41:410][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.02-09.07.41:411][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.02-09.07.41:411][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.02-09.07.41:411][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2022.12.02-09.07.41:411][  0]LogD3D11RHI:   Driver Version: 27.20.100.8853 (internal:27.20.100.8853, unified:27.20.100.8853)
+[2022.12.02-09.07.41:411][  0]LogD3D11RHI:      Driver Date: 10-14-2020
+[2022.12.02-09.07.41:411][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     DeviceId    : 9a49
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     SubSysId    : 15091025
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     Revision    : 0001
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     SharedSystemMemory : 8481042432 bytes
+[2022.12.02-09.07.41:418][  0]LogD3D11RHI:     AdapterLuid : 0 70220
+[2022.12.02-09.07.41:576][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.12.02-09.07.41:590][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2022.12.02-09.07.41:591][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2022.12.02-09.07.41:591][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2022.12.02-09.07.41:591][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.12.02-09.07.41:591][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.02-09.07.41:591][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.02-09.07.41:609][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2022.12.02-09.07.41:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.02-09.07.41:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.02-09.07.41:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.02-09.07.41:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.02-09.07.41:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.02-09.07.41:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.02-09.07.41:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.02-09.07.41:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.02-09.07.41:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.02-09.07.42:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.02-09.07.42:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.02-09.07.42:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.02-09.07.42:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.02-09.07.42:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.02-09.07.42:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.02-09.07.42:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.02-09.07.42:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.02-09.07.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.02-09.07.42:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.02-09.07.42:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.02-09.07.42:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.02-09.07.42:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.02-09.07.42:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.02-09.07.42:075][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.02-09.07.42:082][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.02-09.07.42:110][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.02-09.07.42:141][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.02-09.07.42:141][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Intermediate/Shaders/WorkingDirectory/41060/).
+[2022.12.02-09.07.42:141][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/axelh/AppData/Local/Temp/UnrealShaderWorkingDir/A0CA86CF4E909D6CB77BEF9951050AB0/'.
+[2022.12.02-09.07.42:141][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.02-09.07.42:141][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.02-09.07.42:141][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.02-09.07.42:838][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/axelh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/axelh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.02-09.07.42:892][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.02-09.07.42:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.02-09.07.42:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.02-09.07.42:907][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.02-09.07.42:915][  0]LogDerivedDataCache: Speed tests for C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.02-09.07.42:915][  0]LogDerivedDataCache: Display: Performance to C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1497.56MBs, RandomWriteSpeed=127.80MBs. Assigned SpeedClass 'Local'
+[2022.12.02-09.07.42:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.02-09.07.42:916][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.02-09.07.42:916][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.02-09.07.42:957][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.02-09.07.42:957][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.02-09.07.42:987][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.12.02-09.07.43:214][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.02-09.07.43:214][  0]LogInit: Active device profile: [000001EB58BD0700][000001EB593F2C80 49] Windows
+[2022.12.02-09.07.43:214][  0]LogInit: Profiles: [000001EB58BD0700][000001EB593F2C80 49] Windows, [000001EB58B9F700][000001EB4F814DC0 49] WindowsNoEditor, [000001EB58BD3300][000001EB593EEF40 49] WindowsServer, [000001EB58B9CF00][000001EB598090C0 49] WindowsClient, [000001EB58BD3500][000001EB5980D240 49] IOS, [000001EB58B8FF00][000001EB593F73C0 49] iPadAir, [000001EB58B9FB00][000001EB593FB540 49] iPadAir2, [000001EB58B58500][000001EB57FE1800 49] IPadPro, [000001EB58B58600][000001EB57FDD840 49] iPadAir3, [000001EB58B8C100][000001EB57FE59C0 49] iPadAir4, [000001EB58B5AC00][000001EB57FE9B40 49] iPadMini2, [000001EB58B8E500][000001EB57FEC140 49] iPadMini3, [000001EB58B5B400][000001EB5946E2C0 49] iPadMini4, [000001EB58B8CF00][000001EB59472440 49] iPadMini5, [000001EB58B47E00][000001EB5947A700 49] iPhone6, [000001EB58B47F00][000001EB59476740 49] iPodTouch6, [000001EB58BD3900][000001EB59482A00 49] iPhone7, [000001EB58BD2100][000001EB5947EA40 49] iPodTouch7, [000001EB58B44400][000001EB4F818B80 49] iPhone5S, [000001EB58B5BD00][000001EB59486CC0 49] iPhone6Plus, [000001EB58BD3400][000001EB5948AE00 49] iPhone6S, [000001EB58B5A000][000001EB5948EF40 49] iPhone6SPlus, [000001EB58BD0900][000001EB594970C0 49] iPhone7Plus, [000001EB58B58E00][000001EB5949B240 49] iPhoneSE, [000001EB58BD0200][000001EB5949F3C0 49] iPhone8, [000001EB58B5A400][000001EB594A3540 49] iPhone8Plus, [000001EB58BD1E00][000001EB594A76C0 49] iPhoneX, [000001EB58B5BE00][000001EB57DC7840 49] iPhoneXS, [000001EB58BD1600][000001EB57DCB9C0 49] iPhoneXSMax, [000001EB58B5A500][000001EB57DCFB40 49] iPhoneXR, [000001EB58BD2A00][000001EB57DD2140 49] iPhone11, [000001EB58B5BA00][000001EB57DD62C0 49] iPhone11Pro, [000001EB58BD0F00][000001EB57DDA440 49] iPhone11ProMax, [000001EB58B5A300][000001EB57DDE5C0 49] iPhoneSE2, [000001EB58BD2700][000001EB57DE2740 49] iPhone12Mini, [000001EB58B58700][000001EB57DE68C0 49] iPhone12, [000001EB58BD3100][000001EB57DEAA40 49] iPhone12Pro, [000001EB58B5B500][000001EB57DEEBC0 49] iPhone12ProMax, [000001EB58BD0800][000001EB57DF2D40 49] iPadPro105, [000001EB58B59C00][000001EB59492E80 49] iPadPro129, [000001EB58BD0300][000001EB57DF6FC0 49] iPadPro97, [000001EB58B59D00][000001EB57DFB100 49] iPadPro2_129, [000001EB58BD0C00][000001EB57E03280 49] iPad5, [000001EB58B5B000][000001EB57E07400 49] iPad6, [000001EB58BD2C00][000001EB57E0B580 49] iPad7, [000001EB58B5AE00][000001EB57E0F700 49] iPad8, [000001EB58BD1800][000001EB57E13880 49] iPadPro11, [000001EB58B59B00][000001EB4B181A00 49] iPadPro2_11, [000001EB58BD1500][000001EB4B185B80 49] iPadPro3_129, [000001EB58B5A700][000001EB4B188180 49] iPadPro4_129, [000001EB58BD0100][000001EB4B18C300 49] AppleTV, [000001EB58B5AB00][000001EB4B190480 49] AppleTV4K, [000001EB58BD1B00][000001EB4B194600 49] TVOS, [000001EB58B58900][000001EB4B198780 49] Mac, [000001EB58BD1700][000001EB57E16900 49] MacClient, [000001EB58B5AF00][000001EB57E1AA80 49] MacNoEditor, [000001EB58BD0D00][000001EB57E1EC00 49] MacServer, [000001EB58B58300][000001EB57E22D80 49] Linux, [000001EB58BD2E00][000001EB57E26F00 49] LinuxAArch64, [000001EB58B59500][000001EB57DFF040 49] LinuxNoEditor, [000001EB58BD2400][000001EB57E2B180 49] LinuxAArch64NoEditor, [000001EB58B58200][000001EB57E2F2C0 49] LinuxClient, [000001EB58BD2D00][000001EB57F5B440 49] LinuxAArch64Client, [000001EB58B58C00][000001EB57F5F5C0 49] LinuxServer, [000001EB58BD0400][000001EB57F63740 49] LinuxAArch64Server, [000001EB58B59000][000001EB57F678C0 49] Android, [000001EB58B8F900][000001EB57F6BA40 49] Android_Low, [000001EB58B45B00][000001EB57F6FBC0 49] Android_Mid, [000001EB58B8F000][000001EB57F721C0 49] Android_High, [000001EB58B46300][000001EB59430340 49] Android_Default, [000001EB58B8E000][000001EB594344C0 49] Android_Adreno4xx, [000001EB58B44100][000001EB59438640 49] Android_Adreno5xx_Low, [000001EB58B8CB00][000001EB5943C7C0 49] Android_Adreno5xx, [000001EB58B45800][000001EB59440940 49] Android_Adreno6xx, [000001EB58B8D100][000001EB59444AC0 49] Android_Adreno6xx_Vulkan, [000001EB58B44800][000001EB59448C40 49] Android_Mali_T6xx, [000001EB58B8F600][000001EB5944CDC0 49] Android_Mali_T7xx, [000001EB58B44D00][000001EB59450F40 49] Android_Mali_T8xx, [000001EB58B8FC00][000001EB594550C0 49] Android_Mali_G71, [000001EB58B45500][000001EB57F57200 49] Android_Mali_G72, [000001EB58B8FE00][000001EB59459340 49] Android_Mali_G72_Vulkan, [000001EB58B47D00][000001EB5945D480 49] Android_Mali_G76, [000001EB58B8FA00][000001EB594615C0 49] Android_Mali_G76_Vulkan, [000001EB58B47600][000001EB59469740 49] Android_Mali_G77, [000001EB58B8E200][000001EB5936D8C0 49] Android_Mali_G77_Vulkan, [000001EB58B45200][000001EB59371A40 49] Android_Mali_G78, [000001EB58B8CA00][000001EB59375BC0 49] Android_Mali_G78_Vulkan, [000001EB58B47000][000001EB593781C0 49] Android_Mali_G710, [000001EB58B8D400][000001EB5937C340 49] Android_Mali_G710_Vulkan, [000001EB58B44700][000001EB593804C0 49] Android_Vulkan_SM5, [000001EB58B8D800][000001EB59384640 49] Android_PowerVR_G6xxx, [000001EB58B44E00][000001EB593887C0 49] Android_PowerVR_GT7xxx, [000001EB58B8C200][000001EB5938C940 49] Android_PowerVR_GE8xxx, [000001EB58B44600][000001EB59390AC0 49] Android_PowerVR_GM9xxx, [000001EB58B8E600][000001EB59394C40 49] Android_PowerVR_GM9xxx_Vulkan, [000001EB58B58F00][000001EB59398DC0 49] Android_TegraK1, [000001EB58B8EA00][000001EB5939CF40 49] Android_Unknown_Vulkan, [000001EB58B58D00][000001EB593A10C0 49] Lumin, [000001EB58B8D200][000001EB593A5240 49] Lumin_Desktop, [000001EB58B58B00][000001EB59465380 49] HoloLens, 
+[2022.12.02-09.07.43:326][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.02-09.07.43:326][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.02-09.07.43:326][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.02-09.07.43:326][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.02-09.07.43:326][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.02-09.07.43:347][  0]LogNetVersion: Pow 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4154833112)
+[2022.12.02-09.07.43:889][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.02-09.07.44:007][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.02-09.07.44:011][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.02-09.07.44:011][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.02-09.07.44:011][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.02-09.07.44:269][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1008B6F74D8ABE223BD4F29549122BB4 | Instance: B67E5A734F5AD0C339B22FBB54639C87 (LAPTOP-L6SGEO29-41060).
+[2022.12.02-09.07.44:301][  0]LogPython: Using Python 3.7.7
+[2022.12.02-09.07.44:784][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.02-09.07.44:788][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.02-09.07.44:824][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.12.02-09.07.44:827][  0]LogSteamShared: Steam SDK Loaded!
+[2022.12.02-09.07.44:949][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.44:949][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.44:953][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.44:955][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.44:963][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.44:969][  0]LogUProjectInfo: Found projects:
+[2022.12.02-09.07.44:977][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.44:978][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.44:980][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.45:181][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.02-09.07.45:231][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.02-09.07.45:249][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.02-09.07.45:249][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.02-09.07.45:360][  0]LogCollectionManager: Loaded 0 collections in 0.001750 seconds
+[2022.12.02-09.07.45:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Collections/' took 0.00s
+[2022.12.02-09.07.45:393][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/Developers/axelh/Collections/' took 0.00s
+[2022.12.02-09.07.45:393][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/Collections/' took 0.00s
+[2022.12.02-09.07.45:393][  0]LogOcInput: OculusInput pre-init called
+[2022.12.02-09.07.45:912][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2022.12.02-09.07.45:912][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2022.12.02-09.07.46:137][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2022.12.02-09.07.46:137][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2022.12.02-09.07.46:137][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2022.12.02-09.07.46:137][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FBPSteamGroupOfficer::bIsOwner is not initialized properly. Module:AdvancedSteamSessions File:Classes/SteamRequestGroupOfficersCallbackProxy.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numOnline is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numInGame is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numChatting is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.12.02-09.07.46:195][  0]LogClass: Display: 15 Uninitialized script struct members found including 0 object properties
+[2022.12.02-09.07.46:196][  0]LogEngine: Initializing Engine...
+[2022.12.02-09.07.46:202][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.02-09.07.46:203][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.02-09.07.46:203][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.02-09.07.46:203][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.02-09.07.46:322][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.02-09.07.46:333][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.02-09.07.46:337][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.02-09.07.46:341][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.02-09.07.46:342][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-09.07.46:343][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-09.07.46:343][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-09.07.46:360][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-09.07.46:360][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-09.07.47:196][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.02-09.07.47:199][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-09.07.47:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-09.07.47:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-09.07.47:202][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-09.07.47:203][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-09.07.47:203][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-09.07.47:204][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-09.07.47:204][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-09.07.47:204][  0]LogInit: FAudioDevice initialized.
+[2022.12.02-09.07.47:204][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.02-09.07.47:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.02-09.07.47:258][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/axelh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.02-09.07.47:261][  0]LogInit: Texture streaming: Enabled
+[2022.12.02-09.07.47:273][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.02-09.07.47:277][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.02-09.07.47:277][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.02-09.07.47:279][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.02-09.07.47:304][  0]LogInit: Transaction tracking system initialized
+[2022.12.02-09.07.47:326][  0]BlueprintLog: New page: Editor Load
+[2022.12.02-09.07.47:381][  0]LocalizationService: Localization service is disabled
+[2022.12.02-09.07.47:405][  0]TimingProfiler: Initialize
+[2022.12.02-09.07.47:405][  0]TimingProfiler: OnSessionChanged
+[2022.12.02-09.07.47:405][  0]LoadingProfiler: Initialize
+[2022.12.02-09.07.47:405][  0]LoadingProfiler: OnSessionChanged
+[2022.12.02-09.07.47:405][  0]NetworkingProfiler: Initialize
+[2022.12.02-09.07.47:405][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.02-09.07.47:405][  0]MemoryProfiler: Initialize
+[2022.12.02-09.07.47:405][  0]MemoryProfiler: OnSessionChanged
+[2022.12.02-09.07.47:462][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.47:463][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.47:465][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.02-09.07.47:541][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.02-09.07.47:541][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.02-09.07.47:736][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/' took 0.00s
+[2022.12.02-09.07.47:977][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png' error.
+[2022.12.02-09.07.47:977][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo80x80.png
+[2022.12.02-09.07.47:977][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png' error.
+[2022.12.02-09.07.47:977][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/MegascansPlugin/Resources/Logo32x32.png
+[2022.12.02-09.07.48:029][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.02-09.07.48:032][  0]SourceControl: Source control is disabled
+[2022.12.02-09.07.48:032][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.366
+[2022.12.02-09.07.48:032][  0]Cmd: MAP LOAD FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/arena_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.02-09.07.48:034][  0]LightingResults: New page: Lighting Build
+[2022.12.02-09.07.48:035][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-09.07.48:035][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-09.07.48:036][  0]MapCheck: New page: Map Check
+[2022.12.02-09.07.48:036][  0]LightingResults: New page: Lighting Build
+[2022.12.02-09.07.48:041][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-09.07.48:043][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.02-09.07.48:400][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'arena_map'.
+[2022.12.02-09.07.48:401][  0]LogAIModule: Creating AISystem for world arena_map
+[2022.12.02-09.07.48:407][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.02-09.07.48:500][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.02-09.07.48:500][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.02-09.07.48:500][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,177ms to complete.
+[2022.12.02-09.07.48:500][  0]LogFileHelpers: Loading map 'arena_map' took 0.468
+[2022.12.02-09.07.48:502][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.836
+[2022.12.02-09.07.48:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-09.07.48:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-09.07.48:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-09.07.48:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-09.07.48:624][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3860 classes and 945 folders.
+[2022.12.02-09.07.48:626][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.02-09.07.48:631][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-09.07.48:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-09.07.48:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:631][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.02-09.07.48:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.02-09.07.48:632][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.02-09.07.48:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.02-09.07.48:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.02-09.07.48:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.12.02-09.07.48:634][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.02-09.07.48:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.02-09.07.48:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.02-09.07.48:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.12.02-09.07.48:635][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-09.07.48:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-09.07.48:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.02-09.07.48:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.02-09.07.48:637][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.02-09.07.48:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.02-09.07.48:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.02-09.07.48:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.02-09.07.48:638][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.02-09.07.48:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.02-09.07.48:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.02-09.07.48:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:639][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.02-09.07.48:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.02-09.07.48:639][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.02-09.07.48:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.12.02-09.07.48:641][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.02-09.07.48:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.02-09.07.48:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.02-09.07.48:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:642][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-09.07.48:642][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:642][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-09.07.48:642][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:642][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.02-09.07.48:642][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:645][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.02-09.07.48:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.02-09.07.48:645][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:645][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.02-09.07.48:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:646][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.02-09.07.48:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.02-09.07.48:646][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:646][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.02-09.07.48:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:647][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-09.07.48:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-09.07.48:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.02-09.07.48:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:648][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-09.07.48:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-09.07.48:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.02-09.07.48:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:650][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-09.07.48:650][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:650][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-09.07.48:650][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:650][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.02-09.07.48:650][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.02-09.07.48:651][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.02-09.07.48:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.02-09.07.48:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.02-09.07.48:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:652][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-09.07.48:652][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:652][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-09.07.48:652][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:652][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.02-09.07.48:652][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:653][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.02-09.07.48:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.02-09.07.48:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.02-09.07.48:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:655][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-09.07.48:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-09.07.48:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:655][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.02-09.07.48:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.02-09.07.48:656][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-09.07.48:656][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:656][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-09.07.48:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.02-09.07.48:656][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:657][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-09.07.48:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-09.07.48:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.02-09.07.48:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.02-09.07.48:658][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.02-09.07.48:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.02-09.07.48:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.02-09.07.48:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:659][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.02-09.07.48:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.02-09.07.48:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.02-09.07.48:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:660][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.02-09.07.48:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.02-09.07.48:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.02-09.07.48:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.12.02-09.07.48:661][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.02-09.07.48:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.02-09.07.48:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.02-09.07.48:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.12.02-09.07.48:662][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.02-09.07.48:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.02-09.07.48:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.02-09.07.48:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.12.02-09.07.48:663][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.02-09.07.48:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.02-09.07.48:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.02-09.07.48:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.02-09.07.48:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.02-09.07.48:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.02-09.07.48:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.02-09.07.48:790][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.02-09.07.48:879][  0]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-09.07.48:882][  0]LogSlate: Took 0.001854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-09.07.48:884][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-09.07.48:965][  0]LogRenderer: Reallocating scene render targets to support 604x420 Format 10 NumSamples 1 (Frame:1).
+[2022.12.02-09.07.49:152][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.02-09.07.49:152][  0]LogLoad: (Engine Initialization) Total time: 9.49 seconds
+[2022.12.02-09.07.49:152][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.02-09.07.49:205][  0]LogAssetRegistry: Asset discovery search completed in 6.2184 seconds
+[2022.12.02-09.07.49:209][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.02-09.07.49:209][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.02-09.07.49:365][  3]LogSlate: Took 0.001436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-09.08.03:898][815]LogSlate: Took 0.000791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-09.08.03:920][815]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/POW/main_menu/Main_menu_widget.Main_menu_widget
+[2022.12.02-09.08.04:055][815]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.02-09.08.04:876][815]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-09.08.05:175][815]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-09.08.07:117][927]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.08.07:123][927]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.08.07:414][944]LogSlate: Took 0.009454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-09.08.21:248][744]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-09.08.21:249][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-09.08.21:258][744]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-09.08.21:258][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-09.08.26:900][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.08.27:527][ 66]LogSlate: Took 0.001234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.02-09.08.57:603][799]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-09.08.57:912][799]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-09.08.59:861][911]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.08.59:863][911]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.09.42:072][287]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-09.09.42:167][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.12.02-09.09.42:765][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-09.09.42:782][319]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu9D7CDD44465659D8916DE182D1C4DBA2.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-09.09.42:802][319]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-09.09.42:802][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-09.10.32:475][135]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-09.10.32:753][135]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-09.10.34:289][225]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.10.34:291][225]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-09.12.29:730][912]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.12.29:818][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.02-09.12.29:861][912]LogSlate: Took 0.003070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.02-09.12.30:469][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.12.30:519][945]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena0D8D7DB2482FEDF54605898056F5CAE9.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.12.30:533][945]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.12.30:533][945]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.17.03:225][414]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.17.03:287][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.12.02-09.17.03:916][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.17.03:965][439]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arenaE936A8E24BAF0FA771FB92A34DA31224.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.17.03:979][439]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.17.03:979][439]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.17.55:554][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.02-09.17.55:555][338]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.025
+[2022.12.02-09.17.55:557][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/PC_arena] ([2] browsable assets)...
+[2022.12.02-09.17.55:557][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/PC_arena]
+[2022.12.02-09.17.55:602][338]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena_Auto1CB600A654B7EED4D923447934E39A8D0.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/PC_arena_Auto1.uasset'
+[2022.12.02-09.17.55:603][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/HUD_arena] ([2] browsable assets)...
+[2022.12.02-09.17.55:603][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/HUD_arena]
+[2022.12.02-09.17.55:615][338]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena_Auto18A14FB7144A514F855AFA68DC2C8B7B2.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/HUD_arena_Auto1.uasset'
+[2022.12.02-09.17.55:616][338]LogFileHelpers: Auto-saving content packages took 0.060
+[2022.12.02-09.24.38:276][826]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.24.38:293][826]LogBlueprint: Error: [AssetLog] C:\Users\axelh\Documents\Unreal Projects\Pow_v1.1\Content\POW\game\PC_arena.uasset: [Compiler] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2022.12.02-09.24.38:335][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.02-09.26.21:637][539]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.26.21:651][539]LogBlueprint: Error: [AssetLog] C:\Users\axelh\Documents\Unreal Projects\Pow_v1.1\Content\POW\game\PC_arena.uasset: [Compiler] This blueprint (self) is not a CanvasPanelSlot, therefore ' Target ' must have a connection.
+[2022.12.02-09.26.21:697][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.02-09.26.22:224][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.26.22:271][558]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena57A29D9A4283025919370AAB465301B8.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.26.22:286][558]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.26.22:286][558]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.26.35:299][192]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.26.35:362][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.02-09.26.36:025][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.26.36:072][217]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena904544284D6E6B65C4E239943940F6B8.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.26.36:092][217]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.26.36:092][217]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.26.50:071][958]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.26.50:128][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.02-09.26.50:740][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.26.50:790][982]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena351D9A284E559385653107A946CC6BF0.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.26.50:805][982]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.26.50:805][982]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.27.30:671][191]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.27.30:732][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.12.02-09.27.31:536][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.27.31:594][230]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena0ED8064B421BD7E56AFD64812528B6DD.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.27.31:611][230]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.27.31:611][230]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.27.33:688][345]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-09.27.33:719][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.02-09.27.34:844][345]LogSlate: Window 'Save Content' being destroyed
+[2022.12.02-09.27.34:871][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-09.27.34:886][345]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaFE0CBB9C4003548F9DCD24B95E2BE405.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-09.27.34:973][346]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-09.27.34:973][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-09.28.04:567][890]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-09.28.04:594][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.02-09.29.19:207][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.02-09.29.19:208][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.024
+[2022.12.02-09.29.19:208][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/PC_arena] ([2] browsable assets)...
+[2022.12.02-09.29.19:208][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/PC_arena]
+[2022.12.02-09.29.19:256][309]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena_Auto280AF3C2C426CD726FDD1CEA8548322CE.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/PC_arena_Auto2.uasset'
+[2022.12.02-09.29.19:257][309]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.12.02-09.32.32:263][810]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.32.32:321][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.02-09.32.32:981][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.32.33:029][838]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena5A45A7F64FF2CC89DCB1069342419014.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.32.33:039][838]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.32.33:039][838]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.32.34:298][909]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-09.32.34:329][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.12.02-09.33.16:917][570]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.33.16:976][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.02-09.33.17:656][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.33.17:712][596]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena87F581AE426F2FEAFC1E659F64E9AB18.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.33.17:724][596]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.33.17:724][596]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.34.14:460][805]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-09.34.14:518][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.02-09.34.15:185][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-09.34.15:236][833]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arenaE9EBADCD4E6A2409E3690795FA0B4A8D.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-09.34.15:251][833]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-09.34.15:251][833]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-09.34.16:033][874]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-09.34.16:062][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.12.02-10.20.05:732][913]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.25.45:020][617]LogEditorTransaction: Undo Paste clipboard contents
+[2022.12.02-10.25.45:486][631]LogEditorTransaction: Undo Add Widget
+[2022.12.02-10.25.45:999][663]LogEditorTransaction: Undo Remove Widget
+[2022.12.02-10.34.01:531][680]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.34.20:647][803]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.34.38:746][808]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.35.28:044][641]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.37.30:674][698]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.37.34:157][906]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.37.52:608][974]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.37.58:724][324]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.38.03:458][589]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.38.26:275][901]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-10.39.00:447][880]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-10.39.00:493][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.02-10.39.01:045][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-10.39.01:050][903]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menuB02F566B4C4A27D719C5D0AC319CB604.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-10.39.01:062][903]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-10.39.01:062][903]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-10.41.16:665][781]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 174781
+[2022.12.02-10.41.16:681][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-10.41.16:692][782]LogSlate: Took 0.003476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-10.41.16:697][782]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-10.41.16:699][782]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-10.41.16:700][782]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-10.41.16:708][782]LogSlate: Took 0.004693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-10.41.16:708][782]LogSlate: Took 0.000659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-10.41.17:737][810]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 29
+[2022.12.02-10.41.17:852][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-10.41.17:861][811]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-10.41.17:866][811]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-10.41.17:866][811]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-10.41.17:867][811]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-10.41.17:870][811]LogSlate: Took 0.000876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-10.41.17:870][811]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-10.41.54:984][920]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-10.41.55:027][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.02-10.41.55:803][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-10.41.55:808][957]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu04DEAA794C3CBB653A6EE3B974182166.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-10.41.55:820][957]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-10.41.55:820][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-10.42.34:448][250]LogSlate: Took 0.001842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.02-10.43.06:257][139]LogUObjectHash: Compacting FUObjectHashTables data took  15.54ms
+[2022.12.02-10.43.06:262][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.049
+[2022.12.02-10.43.06:266][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/WI_pause_menu] ([4] browsable assets)...
+[2022.12.02-10.43.06:266][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/WI_pause_menu]
+[2022.12.02-10.43.06:281][139]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu_Auto389061F0D494E09DA73565F86F5FF517D.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/WI_pause_menu_Auto3.uasset'
+[2022.12.02-10.43.06:283][139]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.12.02-10.46.29:537][282]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-10.46.29:591][282]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-10.46.29:593][282]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-10.46.41:952][ 23]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-10.46.41:972][ 23]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-10.54.10:632][826]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-10.54.10:674][826]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-10.54.10:676][826]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-10.56.26:968][277]LogEditorTransaction: Undo Move Keys
+[2022.12.02-11.00.06:608][197]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-11.00.06:608][197]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.00.09:241][350]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-11.00.09:241][350]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.00.55:860][ 58]LogEditorTransaction: Undo Paste Keys
+[2022.12.02-11.01.07:261][700]LogEditorTransaction: Undo Paste Keys
+[2022.12.02-11.03.12:532][535]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-11.03.12:532][535]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.04.03:150][191]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-11.04.03:197][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.12.02-11.05.02:946][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.12.02-11.05.02:968][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.05.02:981][409]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu36B6AE1E43C09F6E30E569B5135CEBE0.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.05.02:994][409]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.05.02:994][409]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.07.40:252][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.02-11.07.40:256][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.032
+[2022.12.02-11.07.40:256][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/WI_pause_menu] ([4] browsable assets)...
+[2022.12.02-11.07.40:256][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/WI_pause_menu]
+[2022.12.02-11.07.40:267][580]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu_Auto4AF2237584BDB82F563BFFCBB3BDBFE29.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/WI_pause_menu_Auto4.uasset'
+[2022.12.02-11.07.40:268][580]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.12.02-11.09.50:063][333]LogSlate: Took 0.000615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.02-11.09.51:792][437]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-11.18.15:475][920]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-11.20.53:998][800]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-11.20.54:053][800]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.20.54:054][800]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.21.00:673][468]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-11.21.00:682][468]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-11.21.14:971][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.21.15:032][733]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menuD25A392B46F06FFC1CF1DAB3CF8FBDB6.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.21.15:048][733]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.21.15:048][733]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.24.40:816][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.24.40:926][ 69]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu07BD98EF4ED0462F8ED29390A90FA1B5.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.24.40:945][ 69]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.24.40:945][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.26.30:532][ 10]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-11.26.30:591][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2022.12.02-11.26.31:282][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.26.31:295][ 77]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu493671E549A0D83BEF2BD7BDA69815EC.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.26.31:311][ 77]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.26.31:311][ 77]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.27.55:626][329]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.27.56:875][445]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.27.56:884][445]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.28.53:972][814]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.02-11.29.18:101][248]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.29.18:981][332]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.18:994][332]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.28:535][322]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.29.29:597][438]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.29:605][438]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.38:566][435]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.29.41:263][716]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.51:621][741]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-11.29.54:305][994]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-11.29.59:870][516]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.29.59:931][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.02-11.30.00:268][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.30.00:283][542]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena5645FAD1432C3E760B2FD59C5774DECE.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.30.00:300][542]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.30.00:300][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.30.34:624][796]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.30.34:678][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.12.02-11.30.35:120][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.30.35:134][832]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena7CCBB54E4FA10E788C357BAA12AE7F6D.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.30.35:153][832]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.30.35:153][832]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.32.09:125][957]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.32.09:179][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.02-11.32.09:731][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.32.09:747][999]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena66BD5D6A460A0F5B343CD5BABCC9DC11.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.32.09:766][999]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.32.09:767][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.32.31:941][236]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-11.32.32:028][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.02-11.32.32:546][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-11.32.32:596][271]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena61E20584431A4C619CE5FE9715D19CA1.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-11.32.32:615][271]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-11.32.32:615][271]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-11.33.32:958][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.02-11.33.32:959][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.024
+[2022.12.02-11.33.32:959][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/PC_arena] ([2] browsable assets)...
+[2022.12.02-11.33.32:960][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/PC_arena]
+[2022.12.02-11.33.33:001][344]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena_Auto5AC2727B84F1DB6B1767B02A6323F9686.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/PC_arena_Auto5.uasset'
+[2022.12.02-11.33.33:002][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/HUD_arena] ([2] browsable assets)...
+[2022.12.02-11.33.33:002][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/HUD_arena]
+[2022.12.02-11.33.33:015][344]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena_Auto532AC7B0742F3EFFA64C3CC9BC8755162.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/HUD_arena_Auto5.uasset'
+[2022.12.02-11.33.33:017][344]LogFileHelpers: Auto-saving content packages took 0.059
+[2022.12.02-11.33.41:679][268]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.33.41:734][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.12.02-11.33.42:245][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.33.42:260][300]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena1F75E7604D3234E7B3B579B05A0A7290.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.33.42:277][300]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.33.42:277][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.35.08:380][ 32]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.35.08:451][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.12.02-11.35.09:169][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.35.09:188][100]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaAAB3170444D71779B7FA518FB1E4AF19.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.35.09:201][100]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.35.09:201][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.35.26:955][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.35.26:974][943]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena54D7349A42ACF9ADD0CFC981E781E96F.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.35.26:989][943]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.35.26:990][943]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.36.06:536][ 76]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-11.36.06:624][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.12.02-11.36.07:107][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-11.36.07:151][109]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena813CF12F4D772E47FC81BCA2C0892095.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-11.36.07:168][109]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-11.36.07:168][109]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-11.36.10:195][398]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.36.10:228][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.02-11.38.14:898][102]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.38.14:950][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.02-11.38.15:564][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.38.15:582][133]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaAC78EBA74C6DCA227B935DACE19B4B06.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.38.15:595][133]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.38.15:596][133]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.38.17:732][256]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.38.17:766][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.02-11.40.17:113][138]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.12.02-11.40.53:778][219]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.40.53:822][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.12.02-11.40.54:184][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.40.54:201][236]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena84A831524D8B1FEC8FC1DEB648AD93DB.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.40.54:220][236]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.40.54:220][236]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.41.53:360][545]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.41.53:419][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.12.02-11.41.53:883][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.41.53:899][567]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena71F769454DA0D0F8494369BF60FFBC4C.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.41.53:921][567]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.41.53:921][567]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.42.04:592][180]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.42.04:626][180]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.12.02-11.42.40:542][424]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.42.40:584][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.12.02-11.42.41:131][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.42.41:148][450]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena8FA5957241B72427B62EB4AF7AB2D923.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.42.41:165][450]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.42.41:165][450]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.42.41:608][474]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.42.41:640][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.12.02-11.45.28:156][759]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.45.28:199][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.02-11.45.28:759][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.45.28:777][787]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena6971A6CA4A2050B085F345AAF7E361D8.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.45.28:794][787]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.45.28:794][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.45.29:572][831]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.45.29:607][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.12.02-11.47.03:704][130]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.47.03:743][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.02-11.47.04:158][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.47.04:176][149]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena0ED133F349B691C4808360B7992EA854.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.47.04:194][149]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.47.04:194][149]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.47.04:887][185]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.47.04:918][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.02-11.47.46:448][698]LogEditorTransaction: Undo Move Node
+[2022.12.02-11.47.46:885][711]LogEditorTransaction: Undo Create Pin Link
+[2022.12.02-11.47.48:748][820]LogEditorTransaction: Redo Create Pin Link
+[2022.12.02-11.47.48:947][829]LogEditorTransaction: Redo Move Node
+[2022.12.02-11.48.11:502][155]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-11.48.11:546][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.12.02-11.48.12:239][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.48.12:251][191]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu6C77C3A3447357B1811227948D222A59.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.48.12:267][191]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.48.12:267][191]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.49.48:817][673]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.49.48:880][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.12.02-11.49.49:306][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.49.49:324][694]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaDCB96D1147C199F12CD46A8B94532EFD.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.49.49:341][694]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.49.49:341][694]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.49.50:066][732]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.49.50:096][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.02-11.51.51:196][554]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.51.51:238][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.12.02-11.51.51:617][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.51.51:637][571]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena9F062B8540ED0C77D33B80A2C0079044.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.51.51:659][571]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.51.51:660][571]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.51.52:513][616]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.51.52:545][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.02-11.52.18:479][210]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.52.18:521][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.02-11.52.18:883][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.52.18:902][227]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena4E5492D6403F15852F250CA4A8F5552F.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.52.18:924][227]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.52.18:924][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.52.19:546][258]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.52.19:579][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.02-11.52.42:912][625]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.52.42:956][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.12.02-11.52.43:419][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.52.43:437][646]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena2471A05143A69C5375F026B03632ABC8.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.52.43:459][646]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.52.43:459][646]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.52.44:311][692]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.52.44:342][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.02-11.54.48:259][779]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.54.48:300][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.02-11.54.48:758][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.54.48:775][800]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena51DA785C435FDC2A49493A985780B845.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.54.48:796][800]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.54.48:796][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.54.53:176][ 33]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.54.53:228][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.12.02-11.54.53:649][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.54.53:666][ 52]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaC5D8D06D4A0454130C4F748E146CA60F.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.54.53:682][ 52]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.54.53:682][ 52]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.54.54:592][102]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.54.54:623][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.02-11.56.23:591][331]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-11.56.23:638][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.12.02-11.56.24:346][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.56.24:357][367]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu33DEEEE444EB90D74C83E8A0391F3358.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.56.24:373][367]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.56.24:373][367]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.57.16:756][383]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-11.57.16:807][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.02-11.57.17:411][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-11.57.17:422][415]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu5B3288DD49CECDD514957EB2420E2231.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-11.57.17:440][415]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-11.57.17:440][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-11.58.02:172][946]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-11.58.02:217][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.02-11.58.02:595][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-11.58.02:612][963]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena8998334A4EC98629754940B9B97D0991.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-11.58.02:635][963]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-11.58.02:635][963]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-11.58.14:133][614]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-11.58.14:165][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.02-11.59.58:869][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.12.02-11.59.58:870][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.026
+[2022.12.02-11.59.58:871][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/WI_pause_menu] ([4] browsable assets)...
+[2022.12.02-11.59.58:871][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/WI_pause_menu]
+[2022.12.02-11.59.58:882][ 58]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu_Auto647E269B24ABAEED7127B4BBF43963BFE.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/WI_pause_menu_Auto6.uasset'
+[2022.12.02-11.59.58:883][ 58]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.12.02-12.02.06:358][259]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.02.06:405][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.12.02-12.02.21:974][ 88]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.02.22:019][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.12.02-12.02.22:414][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.02.22:427][105]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu5968A10F421F3A36B2C1D39C70C22DE7.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.02.22:447][105]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.02.22:447][105]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.02.41:823][151]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.02.41:877][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.02-12.02.42:396][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.02.42:409][176]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu72FB6FA8473649D3EB3757817F38FAC6.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.02.42:431][176]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.02.42:431][176]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.02.45:041][329]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.02.45:073][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.12.02-12.06.31:822][934]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.06.31:859][934]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.12.02-12.06.33:011][934]LogSlate: Window 'Save Content' being destroyed
+[2022.12.02-12.06.33:048][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.06.33:076][934]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu2C7B29164A74C7B56E813EB9241AD032.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.06.33:138][935]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.06.33:138][935]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.09.31:447][136]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.09.31:509][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.12.02-12.09.32:138][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.09.32:177][182]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaB5417951414314BE05AC8894A8533CDC.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.09.32:199][182]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.09.32:200][182]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.09.58:485][331]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.09.58:568][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.12.02-12.09.59:121][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.09.59:160][366]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena641FE23B4140D83AE50425A478B2F31B.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.09.59:185][366]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.09.59:185][366]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.10.35:763][429]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.10.35:841][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.12.02-12.10.36:590][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.10.36:625][481]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena763D50DC4893B3935EB4B88B2DA5D184.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.10.36:644][481]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.10.36:645][481]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.10.40:913][867]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.10.40:960][867]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2022.12.02-12.11.18:986][964]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.11.19:036][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.02-12.11.19:622][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.11.19:644][  3]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaBDF337C6463A80A29392A2A47DC76602.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.11.19:667][  3]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.11.19:667][  3]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.11.48:069][655]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.11.48:136][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.12.02-12.11.48:673][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.11.48:693][689]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena40C571044B1D190E6F9E04AB94057FE2.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.11.48:713][689]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.11.48:713][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.12.12:731][163]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.12.12:795][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.12.02-12.12.13:222][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.12.13:243][194]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena9330F37F433C9129DB3C1A80723E4871.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.12.13:260][194]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.12.13:260][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.12.15:597][391]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.12.15:634][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.12.02-12.12.31:924][130]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.12.31:970][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.02-12.12.32:455][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.12.32:474][163]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena0C2414D141C25BEE57C11EA5E5D92BFF.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.12.32:491][163]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.12.32:491][163]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.12.33:620][284]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.12.33:652][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.02-12.13.58:055][566]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.13.58:099][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.02-12.13.58:801][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.13.58:820][622]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena7C1A4E8E496FA8C0E9E46694CC3441C5.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.13.58:839][622]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.13.58:839][622]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.14.01:525][896]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.14.01:558][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.12.02-12.14.53:629][338]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.14.53:677][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.02-12.14.54:408][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.14.54:426][403]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena1DB8AB2F452D206D7381129E5CC1E7CE.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.14.54:443][403]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.14.54:443][403]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.15.45:484][899]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.15.45:547][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.12.02-12.16.36:940][812]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2022.12.02-12.16.36:989][812]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-12.16.39:391][ 79]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-12.16.39:403][ 79]LogSlate: Window 'Sequencer Curves' being destroyed
+[2022.12.02-12.18.23:910][906]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.18.23:967][906]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2022.12.02-12.18.24:684][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.18.24:707][963]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena9DF2266345F9A2481860488E7F684FE6.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.18.24:726][963]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.18.24:726][963]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.18.25:600][ 52]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.18.25:636][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.12.02-12.19.37:243][837]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-12.19.38:533][974]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.19.38:590][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.02-12.19.39:130][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.19.39:145][  9]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu34B25B7042F1A62B3DF8E6AB606DF453.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.19.39:165][  9]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.19.39:165][  9]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.19.40:047][ 78]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.19.40:077][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.02-12.20.40:206][539]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.12.02-12.20.44:012][937]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2022.12.02-12.21.00:744][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.21.00:765][661]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena53EAC8804A377EBA2F2080B018E9BE00.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.21.00:783][661]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.21.00:783][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.21.29:059][890]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.21.29:120][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.12.02-12.21.29:657][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.21.29:680][935]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaCFE77B224E584B3B4C7FBFBA4809B87A.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.21.29:699][935]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.21.29:699][935]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.22.29:213][961]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.22.29:251][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.12.02-12.22.55:042][971]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-12.22.55:110][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.12.02-12.22.55:637][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-12.22.55:660][  4]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaC456F87240BB5076A3E53F9925F4A512.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-12.22.55:680][  4]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-12.22.55:680][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-12.22.56:261][ 64]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.22.56:292][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.02-12.27.14:998][310]LogBlueprint: Warning: [AssetLog] C:\Users\axelh\Documents\Unreal Projects\Pow_v1.1\Content\POW\game\PC_arena.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  CE_PC_display_menu  and was replaced as a Custom Event!
+[2022.12.02-12.27.34:245][300]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-12.27.34:333][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.12.02-12.27.34:775][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-12.27.34:827][326]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena6D665CF44228BBBD38F52990B51521A3.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-12.27.34:843][326]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-12.27.34:843][326]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-12.28.05:261][369]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-12.28.05:347][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.12.02-12.28.05:892][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-12.28.05:936][398]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arena1E710E2549436AE924BC07BAB314144F.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-12.28.05:961][398]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-12.28.05:961][398]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-12.29.32:013][634]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.29.32:062][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.12.02-12.29.32:696][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.29.32:711][694]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu78AAD9B14841554CA9E47BA2646EB3A1.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.29.32:734][694]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.29.32:734][694]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.29.36:675][ 85]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.29.36:713][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.02-12.29.40:253][ 85]LogSlate: Window 'Save Content' being destroyed
+[2022.12.02-12.29.40:280][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.29.40:296][ 85]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menu2FE7704D46DC1A5D0C28F28BFC4DBDDC.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.29.40:360][ 86]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.29.40:360][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.30.43:298][526]BlueprintLog: New page: Compile WI_pause_menu
+[2022.12.02-12.30.43:356][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.12.02-12.30.43:898][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_pause_menu" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset" SILENT=true
+[2022.12.02-12.30.43:917][560]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_pause_menuAADB10D547B9735EFD661E9F831D330E.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_pause_menu.uasset'
+[2022.12.02-12.30.43:941][560]AssetCheck: New page: Asset Save: WI_pause_menu
+[2022.12.02-12.30.43:941][560]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_pause_menu.WI_pause_menu
+[2022.12.02-12.30.44:844][647]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-12.30.44:878][647]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.12.02-13.12.48:090][652]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-13.12.48:120][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.02-13.19.36:265][288]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-13.19.36:334][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.02-13.19.36:772][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-13.19.36:792][308]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena6C2368F34BF0649B1F32C8B829815763.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-13.19.36:816][308]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-13.19.36:816][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-13.20.37:087][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-13.20.37:107][718]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arenaBC818BAA45236749BEE06C82F1EC05F3.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-13.20.37:124][718]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-13.20.37:124][718]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-13.21.10:497][482]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-13.21.10:602][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.12.02-13.21.11:006][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-13.21.11:054][498]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arenaE4F50D5B4345BBF0D597018DB69ECCEF.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-13.21.11:073][498]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-13.21.11:073][498]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-13.21.11:797][537]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-13.21.11:829][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.12.02-13.22.10:612][968]BlueprintLog: New page: Compile PC_arena
+[2022.12.02-13.22.10:695][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.02-13.22.11:416][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/PC_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset" SILENT=true
+[2022.12.02-13.22.11:462][  1]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/PC_arenaEBB3D7C24984E6170F44679AF9F603BE.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/PC_arena.uasset'
+[2022.12.02-13.22.11:481][  1]AssetCheck: New page: Asset Save: PC_arena
+[2022.12.02-13.22.11:481][  1]LogContentValidation: Display: Validating Blueprint /Game/POW/game/PC_arena.PC_arena
+[2022.12.02-13.22.57:186][726]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-13.28.23:574][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.02-13.28.23:576][910]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.026
+[2022.12.02-13.28.23:576][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/HUD_arena] ([2] browsable assets)...
+[2022.12.02-13.28.23:576][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/HUD_arena]
+[2022.12.02-13.28.23:595][910]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena_Auto70ADDB1BF4990489CA6B90498AA504EC3.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/HUD_arena_Auto7.uasset'
+[2022.12.02-13.28.23:595][910]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.12.02-13.33.00:909][391]BlueprintLog: New page: Compile HUD_arena
+[2022.12.02-13.33.00:984][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.02-13.33.01:721][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/HUD_arena" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset" SILENT=true
+[2022.12.02-13.33.01:740][433]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/HUD_arena9721975D419EF0C362143E89F99971B3.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/HUD_arena.uasset'
+[2022.12.02-13.33.01:757][433]AssetCheck: New page: Asset Save: HUD_arena
+[2022.12.02-13.33.01:757][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/HUD_arena.HUD_arena
+[2022.12.02-13.33.46:630][ 75]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.38.58:363][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.02-13.38.58:364][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/POW/game/arena_map' took 0.029
+[2022.12.02-13.38.58:365][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/POW/game/UI/WI_card] ([2] browsable assets)...
+[2022.12.02-13.38.58:365][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/POW/game/UI/WI_card]
+[2022.12.02-13.38.58:388][262]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card_Auto85FEA72E74EFAC70E911063AFEFDAA841.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/Autosaves/Game/POW/game/UI/WI_card_Auto8.uasset'
+[2022.12.02-13.38.58:389][262]LogFileHelpers: Auto-saving content packages took 0.025
+[2022.12.02-13.40.58:107][974]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.40.58:155][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.12.02-13.40.58:599][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.40.58:622][997]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_cardDD305E7D49A844356B3F20A4008C2B63.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.40.58:648][997]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.40.58:648][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.41.52:121][482]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.41.52:181][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.12.02-13.41.52:757][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.41.52:780][509]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_cardA23D124A48B7B542DA974BA68E93B836.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.41.52:799][509]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.41.52:799][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.52.56:149][796]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.52.56:214][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.02-13.52.56:711][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.52.56:736][822]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card8072CD82467B733E7E2515A07CE08BC9.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.52.56:758][822]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.52.56:758][822]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.53.02:748][142]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.53.02:810][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.12.02-13.53.03:722][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.53.03:747][193]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card6CE7FBED4BEFCAECFDDDACB6D09A179F.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.53.03:766][193]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.53.03:766][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.53.24:987][326]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.53.25:049][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.12.02-13.53.26:182][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.53.26:205][389]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card28B2714A46E06DF5D98EF497FEC10BA4.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.53.26:225][389]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.53.26:225][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.53.31:769][712]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-13.53.31:804][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.12.02-13.55.14:688][436]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.55.14:738][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.02-13.55.15:446][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.55.15:470][475]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card8258F56843ECDEB1D8600A93433B9D92.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.55.15:488][475]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.55.15:488][475]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.55.16:788][550]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-13.55.16:820][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.12.02-13.56.22:465][916]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.56.22:512][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.02-13.56.23:290][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.56.23:314][956]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_card448CE6354C36D0FB1441C58EE9284027.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.56.23:334][956]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.56.23:334][956]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.57.11:297][697]BlueprintLog: New page: Compile WI_card
+[2022.12.02-13.57.11:357][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.12.02-13.57.12:039][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/POW/game/UI/WI_card" FILE="../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset" SILENT=true
+[2022.12.02-13.57.12:063][730]LogSavePackage: Moving '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Saved/WI_cardD23084C34CC034B73CBB24B422906DE9.tmp' to '../../../../../../Users/axelh/Documents/Unreal Projects/Pow_v1.1/Content/POW/game/UI/WI_card.uasset'
+[2022.12.02-13.57.12:084][730]AssetCheck: New page: Asset Save: WI_card
+[2022.12.02-13.57.12:084][730]LogContentValidation: Display: Validating WidgetBlueprint /Game/POW/game/UI/WI_card.WI_card
+[2022.12.02-13.57.13:210][793]LogTemp: Repeating last play command: Standalone Game
+[2022.12.02-13.57.13:249][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.02-14.09.21:360][383]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.02-14.09.21:375][383]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.02-14.09.25:424][389]LogRHI: Error: Present Fail Count 1
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SyncInterval 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.Width 560
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.Height 676
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000130686
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.02-14.09.25:424][389]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.02-14.09.25:424][389]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:360 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2022.12.02-14.09.25:424][389]LogD3D11RHI: [Aftermath] GDynamicRHI=000001EB38952E00, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.12.02-14.09.25:424][389]LogWindows: Windows GetLastError: L’opération a réussi. (0)

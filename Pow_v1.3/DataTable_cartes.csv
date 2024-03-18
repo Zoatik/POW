@@ -1,0 +1,15 @@
+---,name,description,utility,damage,range,movement_ability,sp_abilities,life,cost,category,rarity,sprite,class
+c_custom_champion,custom_name,,,,,,,,,champion,7,,
+t_skm,Skelleton master,mi-squelette mi-ridicule. Il a horreur des crèmes hidratantes à l'huile de coco. (elles lui assècheraient les os...),inflige des dégâts aux corps à corps,10,1,3,,10,6,troups,3,None,None
+t_kamikaze,Kamikaze,Il est volontaire. Je vous le promets!,inflige des dégâts aux corps à corps,1,1,4,miroir_magique,1,3,troups,3,None,None
+b_catapulte,Catapulte,elle lance des trucs,,0,10,0,,80,6,building,2,None,None
+ac_ralliement,Ralliement,Pourquoi demander quand on peut ordonner?,déplace l'unité sélectionnée à l'endroit choisi. le coût de la carte dépend de la distance.,0,0,,,0,-1,action,1,None,None
+ac_invasion,Invasion,Le commerce triangu-quoi?,passe les terrains sélectionnés sous votre contrôle,0,0,,,0,-2,action,0,None,None
+ac_tr_terre1,Tremblement de Terr1,Un désastre presque naturel...,détruit les cases terrains dans un carré 3x3,0,0,,,0,5,action,2,None,None
+ac_tr_terre2,Tremblement de Terr2,"Au mauvais endroit, au mauvais moment.",détruit les cases terrains et les troupes dans un carré de 3x3,0,0,,,0,8,action,5,None,None
+ac_virus,Virus,Sortez les masques!,Applique *virus* sur une troupe,0,0,,virus,0,5,action,3,None,None
+at_flip_flop,Flip Flop,C'est de la fraude fiscale!,transforme tous vos terrains en point de pouvoir. les terrains redeviennent neutres.,0,0,,,0,3,atout,4,None,None
+at_revolution,Révolution Etrangère,Je me révolte... donc nous nous révoltons!,"Si tour principal, tranforme tous les points de pouvoir en points de révolte. Si tour secondaire, transforme tous les points de révolte en points de pouvoir",0,0,,,0,1,atout,4,None,None
+p_filet,Filet,Encore une belle prise!,se déclenche lorsqu'une troupe ennemie passe dessus. Neutralise l'unité pendant 1 tour,0,0,,,0,3,piege,1,None,None
+e_banane,La banane,Attends! Je crois qu'on s'est mal co...,A equiper sur une unité. Octroie la compétence *peau glissante* (à mettre en hyperlien : réduit les dégâts 5 et renvoie 5),0,0,,peau_glissante,0,5,equip,3,None,None
+e_Tah_lion,Serment du Tah Lion,"Oeil pour oeil, chicot pour chicot",A equiper sur une unité. Octroie la compétence *miroir magique*,0,0,,miroir_magique,0,4,equip,2,None,None

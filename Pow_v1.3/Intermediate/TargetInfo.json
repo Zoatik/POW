@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pow",
+			"Path": "C:\\Users\\axelh\\Desktop\\Pow_v1.1\\Source\\Pow.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PowEditor",
+			"Path": "C:\\Users\\axelh\\Desktop\\Pow_v1.1\\Source\\PowEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

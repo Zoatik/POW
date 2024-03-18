@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Pow.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5923DD69-B1FD-46E1-B187-35CA253518BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Pow.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PowEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\DataTable_cartes.csv" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{9857FBB8-4B92-4827-B447-BE1D121A9C6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{58A0B422-9B4E-4F85-92BB-1BFDE6800F8B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions">
+      <UniqueIdentifier>{368B7171-7595-4FAE-BA87-C03B60B270B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions\Source">
+      <UniqueIdentifier>{09DDAEF6-75F8-4C64-A337-53A83BCB148B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions">
+      <UniqueIdentifier>{4D48D5B9-5380-40BB-B42C-0878489FD76D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Classes">
+      <UniqueIdentifier>{4C14CCD7-01DA-4495-96E9-7CD0CBEA975C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessions.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AdvancedSessions\Source\AdvancedSessions\Private">
+      <UniqueIdentifier>{DEA8359B-9580-44CC-86AC-48DB0D9FFC0E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedExternalUILibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsGameInstance.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsInterface.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedFriendsLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedIdentityLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessions.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedSessionsLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\AdvancedVoiceLibrary.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\CancelFindSessionsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\CreateSessionCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\EndSessionCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\FindFriendSessionCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\FindSessionsCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetFriendsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetRecentPlayersCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\GetUserPrivilegeCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\LoginUserCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\LogoutUserCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\SendFriendInviteCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSessions\Source\AdvancedSessions\Private\UpdateSessionCallbackProxyAdvanced.cpp">
+      <Filter>Plugins\AdvancedSessions\Source\AdvancedSessions\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\AdvancedSessions\AdvancedSessions.uplugin">
+      <Filter>Plugins\AdvancedSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSessions\Resources">
+      <UniqueIdentifier>{5481DCD1-D933-4CD4-8795-50B81173DCBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSessions\Resources\Icon128.png">
+      <Filter>Plugins\AdvancedSessions\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions">
+      <UniqueIdentifier>{AD4FD736-8688-4DA8-A8FC-AA76E58E7DF8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\AdvancedSteamSessions.uplugin">
+      <Filter>Plugins\AdvancedSteamSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Resources">
+      <UniqueIdentifier>{1535123D-6316-4CCE-B51D-FB7CFB16A23A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Resources\Icon128.png">
+      <Filter>Plugins\AdvancedSteamSessions\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\MegascansPlugin">
+      <UniqueIdentifier>{2BD9CA3E-1D07-40DE-A1C8-932A532C947D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MegascansPlugin\MegascansPlugin.uplugin">
+      <Filter>Plugins\MegascansPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\MegascansPlugin\Config">
+      <UniqueIdentifier>{6E001EF4-62DC-47EB-B7E5-A0AFD1A5F7AF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MegascansPlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\MegascansPlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\MegascansPlugin\Resources">
+      <UniqueIdentifier>{671A8415-E8E4-4D41-83C2-E00F45ABDCAA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MegascansPlugin\Resources\Icon128.png">
+      <Filter>Plugins\MegascansPlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\MegascansPlugin\Resources\Icon40x40.png">
+      <Filter>Plugins\MegascansPlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\MegascansPlugin\Resources\Logo32x32.png">
+      <Filter>Plugins\MegascansPlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\MegascansPlugin\Resources\Logo80x80.png">
+      <Filter>Plugins\MegascansPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source">
+      <UniqueIdentifier>{3B94B7E7-E019-4C41-A75A-D610E7F57577}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions">
+      <UniqueIdentifier>{52EC38AE-1C0E-4349-8622-8F244B796E14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions</Filter>
+    </None>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes">
+      <UniqueIdentifier>{18944129-0281-448B-AF45-0578BC9B3DE9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private">
+      <UniqueIdentifier>{657E8C92-01B6-45F5-8974-4A0AA994A912}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamFriendsLibrary.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamSessions.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\AdvancedSteamWorkshopLibrary.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamRequestGroupOfficersCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private\SteamWSRequestUGCDetailsCallbackProxy.cpp">
+      <Filter>Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MegascansPlugin\Source">
+      <UniqueIdentifier>{FCE4D405-E0AA-4B68-89F8-09087D2E7D5E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin">
+      <UniqueIdentifier>{9C50F15B-59B5-4633-A079-3B60E7F6612D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\MegascansPlugin.Build.cs">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Private">
+      <UniqueIdentifier>{063718B9-3C15-4DAA-BD3C-775C5A754CBF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportData.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportData.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportDataHandler.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportDataHandler.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetsImportController.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetsImportController.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\MegascansLiveLinkModule.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\MSPythonBridge.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\MSPythonBridge.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\TCPServerImp.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\TCPServerImp.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters">
+      <UniqueIdentifier>{C039C6BE-1339-4CA9-ABBE-FEF018156EB2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3D.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3D.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3DPlant.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3DPlant.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\ImportFactory.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\ImportFactory.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\ImportSurface.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\ImportSurface.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools">
+      <UniqueIdentifier>{515D058E-EBE6-4587-95F6-B06964AFD566}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools\BlendMaterials.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools\BlendMaterials.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI">
+      <UniqueIdentifier>{F95CCDA2-430E-48A2-9B42-3293F115AB7A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MaterialBlendingDetails.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MaterialBlendingDetails.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MSSettings.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MSSettings.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MSStyle.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\MSStyle.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\QMSUIManager.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\QMSUIManager.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\SMSWindow.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI\SMSWindow.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities">
+      <UniqueIdentifier>{2100B93D-3AEA-4676-9D42-5E397C638114}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\Analytics.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\Analytics.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\AssetData.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\AssetData.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\AssetsDatabase.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\AssetsDatabase.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MaterialUtils.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MaterialUtils.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MeshOp.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MeshOp.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MiscUtils.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MiscUtils.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MTSReader.cpp">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities\MTSReader.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\MegascansPlugin\Source\MegascansPlugin\Public">
+      <UniqueIdentifier>{06DB77F9-37AB-48C4-A363-68F27E499E69}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MegascansPlugin\Source\MegascansPlugin\Public\IMegascansLiveLinkModule.h">
+      <Filter>Plugins\MegascansPlugin\Source\MegascansPlugin\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\Pow">
+      <UniqueIdentifier>{BF634BB0-6B5C-4486-8F92-B5E35FD3DAF1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Pow\Pow.Build.cs">
+      <Filter>Source\Pow</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Pow\Pow.cpp">
+      <Filter>Source\Pow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pow\Pow.h">
+      <Filter>Source\Pow</Filter>
+    </ClInclude>
+    <Filter Include="Source\Pow\Private">
+      <UniqueIdentifier>{4F990075-8E45-477C-8630-234D0FDD2045}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Pow\Private\GridCell.cpp">
+      <Filter>Source\Pow\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pow\Private\PathFinding.cpp">
+      <Filter>Source\Pow\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pow\Private\Troup.cpp">
+      <Filter>Source\Pow\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pow\Private\TroupParent.cpp">
+      <Filter>Source\Pow\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Pow\Public">
+      <UniqueIdentifier>{4DF49ACB-B561-46C5-A1E9-FB3F336E8585}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Pow\Public\GridCell.h">
+      <Filter>Source\Pow\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Pow\Public\PathFinding.h">
+      <Filter>Source\Pow\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Pow\Public\Troup.h">
+      <Filter>Source\Pow\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Pow\Public\TroupParent.h">
+      <Filter>Source\Pow\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

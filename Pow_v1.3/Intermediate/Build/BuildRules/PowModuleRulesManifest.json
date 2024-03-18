@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Source\\Pow\\Pow.Build.cs",
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Plugins\\MegascansPlugin\\Source\\MegascansPlugin\\MegascansPlugin.Build.cs",
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Source\\Pow.Target.cs",
+		"C:\\Users\\axelh\\Desktop\\Pow-versions\\Pow_v1.2\\Source\\PowEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

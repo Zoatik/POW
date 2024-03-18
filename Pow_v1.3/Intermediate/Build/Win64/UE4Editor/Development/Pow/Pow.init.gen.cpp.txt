@@ -1,0 +1,3 @@
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Intermediate\Build\Win64\UE4Editor\Development\Pow\Definitions.Pow.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

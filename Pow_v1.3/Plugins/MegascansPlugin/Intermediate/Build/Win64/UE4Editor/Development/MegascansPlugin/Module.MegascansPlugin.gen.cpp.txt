@@ -1,0 +1,13 @@
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Development\MegascansPlugin\Definitions.MegascansPlugin.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Intermediate/Build/Win64/UE4Editor/Inc/MegascansPlugin/MegascansPlugin.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Intermediate/Build/Win64/UE4Editor/Inc/MegascansPlugin/MSPythonBridge.gen.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin/Private/MSPythonBridge.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MSPythonBridge.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Intermediate/Build/Win64/UE4Editor/Inc/MegascansPlugin/MSSettings.gen.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin/Private/UI/MSSettings.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MSSettings.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Intermediate/Build/Win64/UE4Editor/Inc/MegascansPlugin/MTSReader.gen.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin/Private/Utilities/MTSReader.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MTSReader.generated.h

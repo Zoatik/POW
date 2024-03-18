@@ -1,0 +1,1700 @@
+﻿Log file open, 12/13/22 16:03:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pow
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.485001
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin MegascansPlugin
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  127.0.0.1:17777 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/PIEGameUserSettings1.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=1023 -WinY=336 SAVEWINPOS=1 -ResX=640 -ResY=480
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:658][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.13-15.03.19:668][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.13-15.03.19:669][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.13-15.03.19:669][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.13-15.03.19:669][  0]LogHAL: Display: Platform has ~ 16 GB [16962084864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.13-15.03.19:669][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.13-15.03.19:669][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Scalability.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Engine.ini]
+[2022.12.13-15.03.19:670][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Config/Windows/Editor.ini]
+[2022.12.13-15.03.19:670][  0]LogInit: Computer: LAPTOP-L6SGEO29
+[2022.12.13-15.03.19:670][  0]LogInit: User: axelh
+[2022.12.13-15.03.19:670][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.13-15.03.19:670][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.13-15.03.19:670][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.13-15.03.19:670][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.13-15.03.19:670][  0]LogMemory: Process Physical Memory: 142.96 MB used, 142.96 MB peak
+[2022.12.13-15.03.19:670][  0]LogMemory: Process Virtual Memory: 114.72 MB used, 114.72 MB peak
+[2022.12.13-15.03.19:670][  0]LogMemory: Physical Memory: 8385.63 MB used,  7790.67 MB free, 16176.30 MB total
+[2022.12.13-15.03.19:670][  0]LogMemory: Virtual Memory: 134208616.00 MB used,  9110.88 MB free, 134217728.00 MB total
+[2022.12.13-15.03.19:677][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.13-15.03.19:700][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.13-15.03.19:700][  0]LogInit: Using OS detected language (fr-FR).
+[2022.12.13-15.03.19:700][  0]LogInit: Using OS detected locale (fr-CH).
+[2022.12.13-15.03.19:703][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.12.13-15.03.19:706][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.12.13-15.03.19:724][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.13-15.03.19:759][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.13-15.03.19:759][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.13-15.03.19:784][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.13-15.03.19:787][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.13-15.03.19:787][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.13-15.03.19:787][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.13-15.03.19:787][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.13-15.03.20:018][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.12.13-15.03.20:018][  0]LogD3D11RHI:       128/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:       0/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     DeviceId    : 9a49
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     SubSysId    : 15091025
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     Revision    : 0001
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     SharedSystemMemory : 8481042432 bytes
+[2022.12.13-15.03.20:020][  0]LogD3D11RHI:     AdapterLuid : 0 71369
+[2022.12.13-15.03.20:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.13-15.03.20:026][  0]LogD3D11RHI:     GPU DeviceId: 0x9a49 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.13-15.03.20:026][  0]LogWindows: EnumDisplayDevices:
+[2022.12.13-15.03.20:026][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.12.13-15.03.20:026][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.13-15.03.20:026][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.13-15.03.20:027][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.12.13-15.03.20:027][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.13-15.03.20:027][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2022.12.13-15.03.20:027][  0]LogD3D11RHI:   Driver Version: 27.20.100.8853 (internal:27.20.100.8853, unified:27.20.100.8853)
+[2022.12.13-15.03.20:027][  0]LogD3D11RHI:      Driver Date: 10-14-2020
+[2022.12.13-15.03.20:027][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     Description : Intel(R) Iris(R) Xe Graphics
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     DeviceId    : 9a49
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     SubSysId    : 15091025
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     Revision    : 0001
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     SharedSystemMemory : 8481042432 bytes
+[2022.12.13-15.03.20:035][  0]LogD3D11RHI:     AdapterLuid : 0 71369
+[2022.12.13-15.03.20:199][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.12.13-15.03.20:213][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2022.12.13-15.03.20:213][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2022.12.13-15.03.20:213][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2022.12.13-15.03.20:214][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.12.13-15.03.20:214][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.13-15.03.20:214][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.13-15.03.20:232][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2022.12.13-15.03.20:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.13-15.03.20:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.13-15.03.20:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.13-15.03.20:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.13-15.03.20:702][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.13-15.03.20:704][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.13-15.03.20:716][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.13-15.03.20:729][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.13-15.03.20:729][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/axelh/Desktop/Pow-versions/Pow_v1.2/Intermediate/Shaders/WorkingDirectory/12436/).
+[2022.12.13-15.03.20:729][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/axelh/AppData/Local/Temp/UnrealShaderWorkingDir/2353D50542F45B5CE717E18CA580D229/'.
+[2022.12.13-15.03.20:730][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.13-15.03.20:730][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.13-15.03.20:730][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.13-15.03.21:393][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/axelh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/axelh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/axelh/Desktop/Pow-versions/Pow_v1.2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/axelh/Desktop/Pow-versions/Pow_v1.2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.13-15.03.21:445][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.13-15.03.21:461][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.13-15.03.21:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.13-15.03.21:461][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.13-15.03.21:467][  0]LogDerivedDataCache: Speed tests for C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.13-15.03.21:467][  0]LogDerivedDataCache: Display: Performance to C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1284.28MBs, RandomWriteSpeed=182.97MBs. Assigned SpeedClass 'Local'
+[2022.12.13-15.03.21:467][  0]LogDerivedDataCache: Using Local data cache path C:/Users/axelh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.13-15.03.21:467][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.13-15.03.21:467][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.13-15.03.21:501][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.13-15.03.21:501][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.13-15.03.21:583][  0]LogInit: Using OS detected language (fr-FR).
+[2022.12.13-15.03.21:583][  0]LogInit: Using OS detected locale (fr-CH).
+[2022.12.13-15.03.21:583][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2022.12.13-15.03.21:583][  0]LogTextLocalizationManager: No localization for 'fr-CH' exists, so 'en' will be used for the locale.
+[2022.12.13-15.03.21:583][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.13-15.03.21:583][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.12.13-15.03.21:585][  0]LogAssetRegistry: FAssetRegistry took 0.0013 seconds to start up
+[2022.12.13-15.03.21:726][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.12.13-15.03.21:726][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.000878 seconds
+[2022.12.13-15.03.21:777][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.13-15.03.21:777][  0]LogInit: Active device profile: [00000275201F8900][000002751A1D5680 49] Windows
+[2022.12.13-15.03.21:777][  0]LogInit: Profiles: [00000275201F8900][000002751A1D5680 49] Windows, [00000275201CB300][0000027519D457C0 49] WindowsNoEditor, [00000275201FB500][0000027519D49900 49] WindowsServer, [00000275201CBD00][0000027519D51A80 49] WindowsClient, [00000275201FB800][0000027519D55C00 49] IOS, [00000275201CA300][0000027519D58200 49] iPadAir, [00000275201FA000][0000027519D5C380 49] iPadAir2, [000002752115CA00][0000027519D64640 49] IPadPro, [000002752115CB00][0000027519D60680 49] iPadAir3, [00000275201C9200][0000027519D68800 49] iPadAir4, [000002752115F400][0000027519D6C980 49] iPadMini2, [00000275201CA500][0000027519D70B00 49] iPadMini3, [000002752115D700][0000027519D74C80 49] iPadMini4, [00000275201F8F00][0000027519D78E00 49] iPadMini5, [000002752117C300][00000275196510C0 49] iPhone6, [000002752117C400][0000027519D7D100 49] iPodTouch6, [000002752115F600][00000275196593C0 49] iPhone7, [000002752115D800][0000027519655400 49] iPodTouch7, [000002752117FF00][000002751965D580 49] iPhone5S, [00000275201C9E00][0000027519D4D6C0 49] iPhone6Plus, [000002752115C200][0000027519661800 49] iPhone6S, [00000275201C9D00][0000027519665940 49] iPhone6SPlus, [000002752115FC00][0000027519669A80 49] iPhone7Plus, [00000275201CB800][0000027519671C00 49] iPhoneSE, [000002752115F500][0000027519674200 49] iPhone8, [00000275201C9900][0000027519678380 49] iPhone8Plus, [000002752115E600][000002751967C500 49] iPhoneX, [00000275201CA000][0000027519680680 49] iPhoneXS, [000002752115E000][0000027519684800 49] iPhoneXSMax, [00000275201CB500][0000027519688980 49] iPhoneXR, [000002752115F700][000002751968CB00 49] iPhone11, [00000275201CBE00][0000027519690C80 49] iPhone11Pro, [000002752115F800][0000027519694E00 49] iPhone11ProMax, [00000275201CBC00][0000027519698F80 49] iPhoneSE2, [000002752115EE00][000002751969D100 49] iPhone12Mini, [00000275201CA200][00000275196A1280 49] iPhone12, [000002752115D100][00000275196A5400 49] iPhone12Pro, [00000275201CB100][00000275196A9580 49] iPhone12ProMax, [000002752115E300][00000275196AD700 49] iPadPro105, [00000275201CBF00][00000275196B1880 49] iPadPro129, [000002752115F300][000002751966D9C0 49] iPadPro97, [00000275201C9A00][00000275196B5B00 49] iPadPro2_129, [000002752115D400][00000275196B80C0 49] iPad5, [00000275201CAF00][00000275196C0240 49] iPad6, [000002752115F100][00000275196C43C0 49] iPad7, [00000275201C9500][00000275196C8540 49] iPad8, [000002752115DA00][00000275196CC6C0 49] iPadPro11, [00000275201C9800][00000275196D0840 49] iPadPro2_11, [000002752115DB00][00000275196D49C0 49] iPadPro3_129, [00000275201CA100][00000275196D8B40 49] iPadPro4_129, [000002752115F200][00000275196DCCC0 49] AppleTV, [00000275201CAD00][00000275196E0E40 49] AppleTV4K, [000002752115C100][00000275196E4FC0 49] TVOS, [00000275201C9F00][00000275196E9140 49] Mac, [000002752115D600][00000275196ED2C0 49] MacClient, [00000275201C8700][00000275196F1440 49] MacNoEditor, [000002752115F900][00000275196F55C0 49] MacServer, [00000275201CB200][0000027521D91740 49] Linux, [000002752115E200][0000027521D958C0 49] LinuxAArch64, [00000275201CAB00][0000027521D99A40 49] LinuxNoEditor, [000002752115FB00][00000275196BDB80 49] LinuxAArch64NoEditor, [00000275201CA400][0000027521D9C140 49] LinuxClient, [000002752115DF00][0000027521DA0280 49] LinuxAArch64Client, [00000275201C9400][0000027521DA43C0 49] LinuxServer, [000002752115E100][0000027521DAC540 49] LinuxAArch64Server, [00000275201C9300][0000027521DB06C0 49] Android, [000002752115C500][0000027521DB4840 49] Android_Low, [00000275201CB400][0000027521DB89C0 49] Android_Mid, [00000275201FBA00][0000027521DBCB40 49] Android_High, [000002752117DC00][0000027521DC0CC0 49] Android_Default, [00000275201FA100][0000027521DC4E40 49] Android_Adreno4xx, [000002752117E700][0000027521DC8FC0 49] Android_Adreno5xx_Low, [00000275201F8B00][0000027521DCD140 49] Android_Adreno5xx, [000002752117ED00][0000027521DD12C0 49] Android_Adreno6xx, [00000275201F9200][0000027521DD5440 49] Android_Adreno6xx_Vulkan, [000002752117E800][0000027521DD95C0 49] Android_Mali_T6xx, [00000275201FB200][0000027521DDD740 49] Android_Mali_T7xx, [000002752117EE00][0000027521DE18C0 49] Android_Mali_T8xx, [00000275201FA500][0000027521DE5A40 49] Android_Mali_G71, [000002752117FE00][0000027521DE9BC0 49] Android_Mali_G72, [00000275201FAA00][0000027521DA8180 49] Android_Mali_G72_Vulkan, [000002752117DB00][0000027521DEC2C0 49] Android_Mali_G76, [00000275201F9D00][0000027521DF0400 49] Android_Mali_G76_Vulkan, [000002752117F000][0000027521DF4540 49] Android_Mali_G77, [00000275201FAD00][0000027521DFC6C0 49] Android_Mali_G77_Vulkan, [000002752117FA00][0000027521E00840 49] Android_Mali_G78, [00000275201F8D00][0000027521E049C0 49] Android_Mali_G78_Vulkan, [000002752117C500][0000027521E08B40 49] Android_Mali_G710, [00000275201F9300][0000027521E0CCC0 49] Android_Mali_G710_Vulkan, [000002752117DD00][0000027521E10E40 49] Android_Vulkan_SM5, [00000275201FB300][0000027521E14FC0 49] Android_PowerVR_G6xxx, [000002752117EC00][0000027521E19140 49] Android_PowerVR_GT7xxx, [00000275201FBC00][0000027521E1D2C0 49] Android_PowerVR_GE8xxx, [000002752117D200][0000027521E21440 49] Android_PowerVR_GM9xxx, [00000275201FB000][0000027521E255C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002752117E900][0000027521E29740 49] Android_TegraK1, [00000275201F9100][0000027521E2D8C0 49] Android_Unknown_Vulkan, [00000275201C8800][0000027521E31A40 49] Lumin, [00000275201FA900][0000027521E35BC0 49] Lumin_Desktop, [00000275201C8A00][0000027521E381C0 49] HoloLens, 
+[2022.12.13-15.03.21:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.13-15.03.21:868][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.13-15.03.21:868][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.13-15.03.21:868][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.13-15.03.21:868][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.13-15.03.21:887][  0]LogNetVersion: Pow 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4154833112)
+[2022.12.13-15.03.22:113][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.13-15.03.22:160][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.13-15.03.22:265][  0]LogMoviePlayer: Initializing movie player
+[2022.12.13-15.03.22:370][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 985D63CA4740E5C2BB5AC9B7E6CBB54A | Instance: 5CA674874C7FC23ABCCB95A38B57902A (LAPTOP-L6SGEO29-12436).
+[2022.12.13-15.03.22:390][  0]LogCollectionManager: Loaded 0 collections in 0.002349 seconds
+[2022.12.13-15.03.22:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Saved/Collections/' took 0.00s
+[2022.12.13-15.03.22:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Content/Developers/axelh/Collections/' took 0.00s
+[2022.12.13-15.03.22:392][  0]LogFileCache: Scanning file cache for directory 'C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Content/Collections/' took 0.00s
+[2022.12.13-15.03.22:392][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.12.13-15.03.22:413][  0]LogPython: Using Python 3.7.7
+[2022.12.13-15.03.22:822][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.13-15.03.22:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.13-15.03.22:870][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.12.13-15.03.22:871][  0]LogSteamShared: Steam SDK Loaded!
+[2022.12.13-15.03.22:908][  0]SourceControl: Source control is disabled
+[2022.12.13-15.03.22:908][  0]SourceControl: Source control is disabled
+[2022.12.13-15.03.22:926][  0]SourceControl: Source control is disabled
+[2022.12.13-15.03.22:931][  0]LogUProjectInfo: Found projects:
+[2022.12.13-15.03.23:016][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.13-15.03.23:030][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.13-15.03.23:047][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.13-15.03.23:047][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.13-15.03.23:120][  0]LogOcInput: OculusInput pre-init called
+[2022.12.13-15.03.23:127][  0]LogUObjectArray: 22369 objects as part of root set at end of initial load.
+[2022.12.13-15.03.23:127][  0]LogUObjectAllocator: 6063536 out of 0 bytes used by permanent object pool.
+[2022.12.13-15.03.23:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.13-15.03.23:169][  0]LogClass: Display: BoolProperty FBPSteamGroupOfficer::bIsOwner is not initialized properly. Module:AdvancedSteamSessions File:Classes/SteamRequestGroupOfficersCallbackProxy.h
+[2022.12.13-15.03.23:169][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numOnline is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.13-15.03.23:169][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numInGame is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.13-15.03.23:169][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numChatting is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2022.12.13-15.03.23:169][  0]LogClass: Warning: IntProperty FCell::cell_state is not initialized properly even though its struct probably has a custom default constructor. Module:Pow File:Public/PathFinding.h
+[2022.12.13-15.03.23:169][  0]LogClass: Display: 5 Uninitialized script struct members found including 0 object properties
+[2022.12.13-15.03.23:169][  0]LogAutomationTest: Warning: IntProperty FCell::cell_state is not initialized properly even though its struct probably has a custom default constructor. Module:Pow File:Public/PathFinding.h
+[2022.12.13-15.03.23:169][  0]LogEngine: Initializing Engine...
+[2022.12.13-15.03.23:171][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.13-15.03.23:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.13-15.03.23:172][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.13-15.03.23:173][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.13-15.03.23:263][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.13-15.03.23:263][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.13-15.03.23:268][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.13-15.03.23:268][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.13-15.03.23:269][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.13-15.03.23:269][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.13-15.03.23:289][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.13-15.03.23:289][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.13-15.03.23:566][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.13-15.03.23:569][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.13-15.03.23:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.13-15.03.23:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.13-15.03.23:571][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.13-15.03.23:571][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.13-15.03.23:571][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.13-15.03.23:572][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.13-15.03.23:572][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.13-15.03.23:572][  0]LogInit: FAudioDevice initialized.
+[2022.12.13-15.03.23:573][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.13-15.03.23:575][  0]LogInit: Texture streaming: Enabled
+[2022.12.13-15.03.23:648][  0]LogBlueprintUserMessages: [GameInstancePow_C_0] Précédente sauvegarde trouvée
+[2022.12.13-15.03.23:650][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.13-15.03.23:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.13-15.03.23:652][  0]LogInit: Display: Game Engine Initialized.
+[2022.12.13-15.03.23:652][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.12.13-15.03.23:742][  0]LogInit: Display: Starting Game.
+[2022.12.13-15.03.23:742][  0]LogNet: Browse: 127.0.0.1:17777/Game/POW/login_session/login_session?Name=Player
+[2022.12.13-15.03.23:742][  0]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.12.13-15.03.23:742][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.12.13-15.03.23:742][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.12.13-15.03.23:742][  0]LogNet: Game client on port 17777, rate 100000
+[2022.12.13-15.03.23:798][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-15.03.23:828][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.13-15.03.23:828][  0]LogLoad: (Engine Initialization) Total time: 5.93 seconds
+[2022.12.13-15.03.23:828][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.13-15.03.23:830][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.13-15.03.23:832][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.03.24:041][  1]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.13-15.03.24:755][426]LogHandshake: SendChallengeResponse. Timestamp: 0.364581, Cookie: 046229215233183025234032120156159209032061189066083218246142
+[2022.12.13-15.03.24:762][430]LogNetVersion: Pow 1.0.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1381150302)
+[2022.12.13-15.03.24:762][430]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.12.13-15.03.24:775][435]LogNet: Welcomed by server (Level: /Game/POW/game/arena_map, Game: /Game/POW/game/GM_arena.GM_arena_C)
+[2022.12.13-15.03.24:775][435]LogLoad: LoadMap: 127.0.0.1:17777/Game/POW/game/arena_map?Name=Player?game=/Game/POW/game/GM_arena.GM_arena_C
+[2022.12.13-15.03.24:775][435]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.12.13-15.03.24:775][435]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.13-15.03.24:775][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.13-15.03.24:783][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.13-15.03.24:787][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.13-15.03.25:478][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'arena_map'.
+[2022.12.13-15.03.25:483][435]LogWorld: Bringing World /Game/POW/game/arena_map.arena_map up for play (max tick rate 0) at 2022.12.13-16.03.25
+[2022.12.13-15.03.25:483][435]LogWorld: Bringing up level for play took: 0.001917
+[2022.12.13-15.03.25:483][435]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.13-15.03.25:484][435]LogLoad: Took 0.708876 seconds to LoadMap(/Game/POW/game/arena_map)
+[2022.12.13-15.03.25:485][435]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.12.13-15.03.25:578][437]LogRenderer: Reallocating scene render targets to support 640x480 Format 10 NumSamples 1 (Frame:1).
+[2022.12.13-15.03.25:991][437]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.13-15.03.25:992][437]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.12.13-15.03.26:815][547]LogBlueprintUserMessages: [BP_Grid_cell_C_138] 138
+[2022.12.13-15.03.26:922][549]LogBlueprintUserMessages: [BP_Grid_cell_C_186] 186
+[2022.12.13-15.03.27:000][558]LogBlueprintUserMessages: [BP_Grid_cell_C_209] 209
+[2022.12.13-15.03.27:016][560]LogBlueprintUserMessages: [BP_Grid_cell_C_210] 210
+[2022.12.13-15.03.27:494][619]LogBlueprintUserMessages: [PC_arena_C_0] custom_name
+[2022.12.13-15.03.27:494][619]LogBlueprintUserMessages: [WI_card_C_0] custom_name
+[2022.12.13-15.03.27:540][624]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_233
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:540][624]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:555][626]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_234
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:555][626]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:603][632]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_235
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:603][632]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:612][633]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_258
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:612][633]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:642][637]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_236
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:642][637]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:699][644]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_237
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:699][644]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:706][645]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_214
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.27:706][645]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.27:795][656]LogBlueprintUserMessages: [PC_arena_C_0] Skelleton master
+[2022.12.13-15.03.27:796][656]LogBlueprintUserMessages: [WI_card_C_1] Skelleton master
+[2022.12.13-15.03.28:046][684]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_237
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:046][684]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:114][690]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_259
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:114][690]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:115][690]LogBlueprintUserMessages: [PC_arena_C_0] Kamikaze
+[2022.12.13-15.03.28:115][690]LogBlueprintUserMessages: [WI_card_C_2] Kamikaze
+[2022.12.13-15.03.28:126][691]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_282
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:127][691]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:169][694]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_305
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:169][694]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:183][695]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_328
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:183][695]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:199][696]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_351
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:199][696]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:230][698]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_374
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:230][698]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:260][700]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_397
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:260][700]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:290][702]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_420
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:290][702]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:439][711]LogBlueprintUserMessages: [PC_arena_C_0] Catapulte
+[2022.12.13-15.03.28:439][711]LogBlueprintUserMessages: [WI_card_C_3] Catapulte
+[2022.12.13-15.03.28:698][731]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_444
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:698][731]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:748][738]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_445
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:748][738]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:756][739]LogBlueprintUserMessages: [PC_arena_C_0] Ralliement
+[2022.12.13-15.03.28:758][739]LogBlueprintUserMessages: [WI_card_C_4] Ralliement
+[2022.12.13-15.03.28:802][745]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_446
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:802][745]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:829][749]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_423
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:830][749]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:958][767]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_400
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:958][767]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:981][770]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_399
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:981][770]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.28:995][772]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_376
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.28:996][772]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:026][776]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_375
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:026][776]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:034][777]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_352
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:034][777]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:063][781]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_351
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:063][781]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:425][825]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_328
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:426][825]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:434][826]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_305
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:435][826]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:443][827]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_259
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:443][827]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:451][828]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_236
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:452][828]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:468][830]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_213
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:468][830]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:477][831]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_190
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:477][831]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:485][832]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_167
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:485][832]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:495][833]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_144
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:495][833]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:513][835]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_121
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:513][835]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:521][836]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_98
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:521][836]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:530][837]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_75
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:530][837]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:539][838]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_51
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:539][838]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:805][869]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_28
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:805][869]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.29:821][871]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_5
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.29:821][871]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.30:901][999]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_8
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.30:901][999]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.30:910][  0]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_9
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.30:910][  0]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.30:967][  7]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_10
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.30:967][  7]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.31:231][ 39]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_9
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.31:231][ 39]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:153][150]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_7
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:153][150]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:163][151]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_30
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:163][151]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:180][153]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_53
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:180][153]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:197][155]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_77
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:197][155]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:214][157]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_100
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:214][157]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:486][190]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_122
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:486][190]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:512][193]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_145
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:512][193]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:519][194]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_144
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:520][194]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:529][195]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_167
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:529][195]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:537][196]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_166
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:537][196]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:544][197]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_189
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:544][197]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:563][199]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_188
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:563][199]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:570][200]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_211
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:570][200]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:587][202]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_210
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:587][202]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:611][205]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_233
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:612][205]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:778][225]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_210
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:778][225]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:829][231]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_187
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:829][231]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:913][241]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_186
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:913][241]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:930][243]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_209
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:930][243]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:963][247]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_231
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:963][247]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:981][249]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_254
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:981][249]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:988][250]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_277
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:988][250]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.32:997][251]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_300
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.32:997][251]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:005][252]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_323
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:005][252]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:023][254]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_369
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:023][254]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:039][256]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_392
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:039][256]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:330][291]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_415
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:330][291]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:339][292]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_414
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:339][292]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:347][293]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_437
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:347][293]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:371][296]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_460
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:371][296]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:380][297]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_483
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:380][297]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:388][298]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_530
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:388][298]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:404][300]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_553
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:404][300]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:413][301]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_576
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:413][301]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.33:420][302]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_600
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.33:420][302]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:504][822]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_459
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:504][822]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:513][823]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_480
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:513][823]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:521][824]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_478
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:521][824]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:529][825]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_500
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:529][825]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:537][826]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_521
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:537][826]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:547][827]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_519
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:547][827]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:555][828]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_518
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:555][828]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:564][829]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_538
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:564][829]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:573][830]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_537
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:573][830]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:582][831]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_536
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:582][831]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:590][832]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_535
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:590][832]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:599][833]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_534
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:599][833]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:607][834]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_532
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:607][834]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:634][837]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_554
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:634][837]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:902][868]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_553
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:902][868]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.46:910][869]LogScript: Warning: Accessed None trying to read property selected_troup
+	BP_Grid_cell_C /Game/POW/game/arena_map.arena_map:PersistentLevel.BP_Grid_cell_C_552
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell:11F9
+[2022.12.13-15.03.46:911][869]LogScript: Warning: Script call stack:
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:BndEvt__Grid_cell_tileStaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginCursorOverSignature__DelegateSignature
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:CE_cell_in_path
+	Function /Game/POW/game/grid/BP_Grid_cell.BP_Grid_cell_C:ExecuteUbergraph_BP_Grid_cell
+
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 242
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 241
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 264
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 263
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 262
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 285
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 308
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 331
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 332
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 333
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 310
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 311
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 288
+[2022.12.13-15.03.47:614][951]LogBlueprintUserMessages: [BP_Grid_2] 265
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 354
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 355
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 356
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 287
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 286
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 309
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 377
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 353
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 330
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 307
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 306
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 283
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 260
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 237
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 329
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 352
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 284
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 261
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 305
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 328
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 351
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 259
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 236
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 213
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 212
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 235
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 258
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 281
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 304
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 327
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 376
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 399
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 400
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 423
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 424
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 401
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 402
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 379
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 378
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 425
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 426
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 403
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 380
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 404
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 405
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 406
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 384
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 361
+[2022.12.13-15.03.47:615][951]LogBlueprintUserMessages: [BP_Grid_2] 338
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 337
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 314
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 313
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 336
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 358
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 381
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 383
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 360
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 359
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 382
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 290
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 289
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 312
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 334
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 357
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 315
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 292
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 291
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 268
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 267
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 266
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 269
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 246
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 245
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 293
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 270
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 223
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 222
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 407
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 428
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 427
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 429
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 430
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 431
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 432
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 433
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 410
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 387
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 386
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 363
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 362
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 339
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 385
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [BP_Grid_2] 408
+[2022.12.13-15.03.47:616][951]LogBlueprintUserMessages: [PS_arena_C_1] on update le grid
+[2022.12.13-15.04.16:340][278]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:360 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2022.12.13-15.04.16:340][278]LogD3D11RHI: [Aftermath] GDynamicRHI=0000027500CA7640, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.12.13-15.04.16:340][278]LogWindows: Windows GetLastError: L’opération a réussi. (0)

@@ -1,0 +1,259 @@
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Development\MegascansPlugin\Definitions.MegascansPlugin.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImportData.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportData.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImportDataHandler.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImportDataHandler.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/MiscUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Json/Public/Dom/JsonObject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Json/Public/Serialization/JsonSerializer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImporters/Import3D.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3D.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\ImportFactory.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/AssetData.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/AssetsDatabase.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters/ImportSurface.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/MeshOp.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/MaterialUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Editor\EditorScriptingUtilities\Source\EditorScriptingUtilities\Public\EditorAssetLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Editor\EditorScriptingUtilities\Intermediate\Build\Win64\UE4Editor\Inc\EditorScriptingUtilities\EditorAssetLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Editor\EditorScriptingUtilities\Source\EditorScriptingUtilities\Public\EditorStaticMeshLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\StaticMeshDescription\Public\UVMapSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\StaticMeshDescription\UVMapSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Editor\EditorScriptingUtilities\Intermediate\Build\Win64\UE4Editor\Inc\EditorScriptingUtilities\EditorStaticMeshLibrary.generated.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI/MSSettings.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MSSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/RendererSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RendererSettings.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImporters/Import3DPlant.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetImporters\Import3DPlant.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImporters/ImportFactory.cpp
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetImporters/ImportSurface.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\AssetImportTask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AssetImportTask.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/UnrealEd/Classes/Factories/MaterialInstanceConstantFactoryNew.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialInstanceConstantFactoryNew.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\MaterialEditor\Public\MaterialEditingLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MaterialEditor\MaterialEditingLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Engine/Selection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Selection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/MTSReader.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MTSReader.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/AssetsImportController.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\AssetsImportController.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Utilities/Analytics.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/MegascansLiveLinkModule.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Public\IMegascansLiveLinkModule.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI/QMSUIManager.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI/MaterialBlendingDetails.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/MSPythonBridge.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\MSPythonBridge.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Intermediate\Build\Win64\UE4Editor\Inc\MegascansPlugin\MSPythonBridge.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/TCPServerImp.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\TCPServerImp.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Sockets/Public/Sockets.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\SocketTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Net\Common\Public\Net/Common/Packets/PacketView.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Net\Common\Public\Net/Common/Sockets/SocketErrors.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Net\Common\Public\Net/Common/Packets/PacketTraits.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Core/Public/Async/Async.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Address.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4SubnetMask.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Interfaces/IPv4/IPv4Endpoint.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\IPAddress.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\AddressInfoTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Common/TcpListener.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Common/TcpSocketBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Networking\Public\Common/UdpSocketReceiver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\NetworkMessage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Core/Public/Misc/ScopedSlowTask.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Tools/BlendMaterials.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\Tools/BlendMaterials.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/UI/MaterialBlendingDetails.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailBuilderTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/UI/MSSettings.cpp
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/UI/MSStyle.cpp
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI/MSStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/UI/QMSUIManager.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\PythonScriptPlugin\Source\PythonScriptPlugin\Public\IPythonScriptPlugin.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\PythonScriptPlugin\Source\PythonScriptPlugin\Public\PythonScriptTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\PythonScriptPlugin\Intermediate\Build\Win64\UE4Editor\Inc\PythonScriptPlugin\PythonScriptTypes.generated.h
+C:\Users\axelh\Desktop\Pow-versions\Pow_v1.2\Plugins\MegascansPlugin\Source\MegascansPlugin\Private\UI/SMSWindow.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/UI/SMSWindow.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/Analytics.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/AssetData.cpp
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/AssetsDatabase.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLitePreparedStatement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLiteTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteDatabaseConnection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteSupport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteResultSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\DatabaseSupport\Source\DatabaseSupport\Public\Database.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLiteDatabase.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/MaterialUtils.cpp
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/MeshOp.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd/Classes/Factories/FbxImportUI.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/ImportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxImportUI.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd/Classes/Factories/FbxStaticMeshImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxMeshImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Factories/FbxAssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxMeshImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FbxStaticMeshImportData.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\FbxMeshUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\AlembicImporter\Source\AlembicLibrary\Public\AbcImportSettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\AlembicImporter\Intermediate\Build\Win64\UE4Editor\Inc\AlembicLibrary\AbcImportSettings.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor/FoliageEdit/Private/FoliageTypeFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\FoliageEdit\FoliageTypeFactory.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Foliage/Public/InstancedFoliageActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\FoliageType_InstancedStaticMesh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\FoliageType.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Foliage\FoliageType.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\FoliageInstancedStaticMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/HierarchicalInstancedStaticMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HierarchicalInstancedStaticMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Foliage\FoliageInstancedStaticMeshComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Foliage\FoliageType_InstancedStaticMesh.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\FoliageInstanceBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\InstancedFoliage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Foliage\Public\InstancedFoliageCustomVersion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Foliage\InstancedFoliageActor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/AssetRegistry/Public/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/MiscUtils.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\regex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\locale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocbuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmes
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xloctime
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:/Users/axelh/Desktop/Pow-versions/Pow_v1.2/Plugins/MegascansPlugin/Source/MegascansPlugin/Private/Utilities/MTSReader.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/JsonUtilities/Public/JsonObjectConverter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\JsonUtilities\Public\JsonObjectWrapper.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Pow-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\PowEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\PathFinding.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\Troup.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\Pow.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\PathFinding.gen.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\Pow.init.gen.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\Troup.gen.cpp.obj"
+"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\Default.rc2.res"
+/OUT:"C:\Users\axelh\Desktop\Pow_v1.1\Intermediate\Build\Win64\UE4Editor\Development\Pow\UE4Editor-Pow-0010.lib"
